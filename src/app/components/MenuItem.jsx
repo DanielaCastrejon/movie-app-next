@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function MenuItem({title, address, Icon}) {
 return (
-    <Link href={address} className='hover:text-green-700' >
+    <Link href={address} className='hover:text-pink-400' >
         <Icon className="text-2xl sm:hidden" />
         <p className='uppercase hidden sm:inline text-sm'>{title}</p>
     </Link>
