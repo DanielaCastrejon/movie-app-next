@@ -1,3 +1,48 @@
+# Descubre el cine a un click de distancia #
+
+Imagina tener al alcance de tu mano un mundo lleno de historias, actores y directores legendarios. Con nuestra aplicación web, podrás explorar el vasto universo del cine de una manera sencilla y divertida.
+
+## ¿Qué puedes hacer con nuestra aplicación? ##
+
+* _Buscar películas: Encuentra tus películas favoritas por título, género, año o actor._
+* _Explorar detalles: Descubre información detallada sobre cada película, como sinopsis, reparto, críticas y mucho más._
+* _Descubrir novedades: Mantente al día con los últimos estrenos y las películas más populares._
+
+# ¡Sumérgete en el mundo del cine como nunca antes! #
+
+![Movie-Space-Logo](https://github.com/user-attachments/assets/badca596-e42e-42a4-8248-b125f5cecfb6)
+
+
+# "Explora nuestra demo ahora" #
+
+
+## Objetivos: #  
+
+### Público objetivo: El objetivo de Movie Planet es poder tener un sitio web de facil acceso para que nuestros usuarios puedan saber información básica sobre sus péliculas favoritas
+
+
+# Tecnologías utilizadas
+
+Arquitectura: Una breve descripción de la estructura de la aplicación.
+Roadmap: Un plan de desarrollo a futuro.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
